@@ -1,5 +1,9 @@
 ![Header](https://github.com/Erdauit/erdauit/blob/main/assets/1a3f99383bf159bf76bbb6bfef7333e8.jpg)
 
+
+## Welcome to my Github! 
+
+
 <div id="badges", align = "center">
   <a href="https://www.linkedin.com/in/erdauit-torekhan-61725a238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
