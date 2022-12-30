@@ -19,8 +19,5 @@
    <a href="https://github.com/erdauit/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdauit&layout=compact&show_icons=true&bg_color=00000000" alt="Bubu"/>
   </a>
-   <a href="https://github.com/erdauit/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=erdauit&show_icons=true&bg_color=00000000" alt="Bubu"/>
-  </a>
 </div>
 
