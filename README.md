@@ -2,7 +2,7 @@
 
 
 <div id = "header", align = "center">
-  <h1> Welcom to my GitHub! </h1>
+  <h1> Welcome to my GitHub! </h1>
 </div>
 
 
