@@ -1,4 +1,4 @@
-![Header](https://github.com/Erdauit/erdauit/blob/main/assets/gifs-aesthetic-wallpaper-para-desktop-e-mobile-14.gif)
+![Header](https://github.com/Erdauit/erdauit/blob/main/assets/785ea7fbe7fa755c49371692099cda20.jpg)
 
 <div id="badges", align = "center">
   <a href="https://www.linkedin.com/in/erdauit-torekhan-61725a238/">
