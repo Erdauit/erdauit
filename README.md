@@ -10,6 +10,9 @@
 </div>
 
 
+   <a href="https://github.com/erdauit/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdauit&layout=compact" alt="Bubu"/>
+  </a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdauit&layout=compact)](https://github.com/erdauit/github-readme-stats)
