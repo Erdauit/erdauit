@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="Instagram Badge"/>
   </a>
      <a href="https://t.me/erdauttt">
-    <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=telegram&logoColor=B4068E" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=229ED9" alt="Instagram Badge"/>
   </a>
 </div>
 
