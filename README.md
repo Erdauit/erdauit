@@ -1,4 +1,4 @@
-![Header](https://github.com/Erdauit/erdauit/blob/main/assets/1a3f99383bf159bf76bbb6bfef7333e8.jpg)
+![Header](https://github.com/Erdauit/erdauit/blob/main/assets/785ea7fbe7fa755c49371692099cda20.jpg)
 
 
 <div id = "header", align = "center">
