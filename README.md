@@ -7,7 +7,7 @@
 
 
 <div id="badges", align = "center">
-  <a href="[https://www.linkedin.com/in/erdauit-torekhan-61725a238/](https://www.linkedin.com/in/yerdauit-torekhan/)">
+  <a href="https://www.linkedin.com/in/yerdauit-torekhan/">
     <img src="https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.instagram.com/erdauttt/">
